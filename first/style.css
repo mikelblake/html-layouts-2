@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	box-sizing: boarder-box;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+p {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.box {
+	height: 150px;
+	width: 30%;
+	margin: 1.5%;
+	float: left;
+}
+
+.box1 {
+	background: red;
+}
+
+.box2 {
+	background: #4A90E2;
+}
+
+.box3 {
+	background: gray;
+}
+
+.clear {
+	clear: both;
+}
+
+.wrap {
+	padding: 20px;
+}
+
+.box4 {
+	background: red;
+	height: 350px;
+	width: 33%;
+	float: left;
+}
+
+.box5 {
+	background: #4A90E2;
+	height: 350px;
+	width: 66%;
+	float: left;
+}
+
+.box6 {
+	background: #4A90E2;
+	height: 150px;
+	width: 66%;
+	float: left;
+}
+
+.box7 {
+	background: red;
+	height: 150px;
+	width: 33%;
+	float: left;
+}
+
+.box8 {
+	background: gray;
+	height: 150px;
+	width: 75%;
+	margin: 0 auto;
+}
+
+
+
